@@ -27,11 +27,11 @@ self.addEventListener('message', (event) => {
 self.__precacheManifest = [
   {
     "url": "404.html",
-    "revision": "2e7bc6a703389da93e446102dc56997b"
+    "revision": "d11919eb9610148b6785471861a533c4"
   },
   {
-    "url": "assets/css/0.styles.605b745b.css",
-    "revision": "6f8e88636b23281095b93afcca083413"
+    "url": "assets/css/0.styles.67296747.css",
+    "revision": "24da0114edfe96a9f38280e0d3c228f5"
   },
   {
     "url": "assets/img/home-bg.7b267d7c.jpg",
@@ -54,12 +54,12 @@ self.__precacheManifest = [
     "revision": "eb5f8a18cb80db43705bf03f3cf81079"
   },
   {
-    "url": "assets/js/13.3d7feb27.js",
-    "revision": "31b515330df0b9357fd4c4a68838f593"
+    "url": "assets/js/13.8752d158.js",
+    "revision": "69c4988291613c0586a0166ad3afdc8f"
   },
   {
-    "url": "assets/js/14.9f4657d8.js",
-    "revision": "efbd82153ef9a073e9723031f6d850ef"
+    "url": "assets/js/14.07d71c19.js",
+    "revision": "47af1dd055e37b2af1178ca8876dd436"
   },
   {
     "url": "assets/js/15.bb9b5627.js",
@@ -90,8 +90,8 @@ self.__precacheManifest = [
     "revision": "bbb13da129bebc39243315fbddf9d88a"
   },
   {
-    "url": "assets/js/app.4ba9f53f.js",
-    "revision": "0b4e27a7455a6c27e9164b8720b05923"
+    "url": "assets/js/app.8673894e.js",
+    "revision": "a07b26b8e6fc3cb784bc7f56242ebc1c"
   },
   {
     "url": "assets/js/vendors~flowchart.b1222c5f.js",
@@ -99,39 +99,39 @@ self.__precacheManifest = [
   },
   {
     "url": "blogs/FrontEnd/2020-8/tips.html",
-    "revision": "1e29db33046d5833fb231e31c16c96f6"
+    "revision": "c778fca05081b8ca283d950f32389213"
   },
   {
     "url": "blogs/FrontEnd/2020-8/依托于 GithubPage 的静态博客部署方案.html",
-    "revision": "1241003388a77a15c9b04729e1946200"
+    "revision": "7cd79a731b51f842c8e723370dc5ebc8"
   },
   {
     "url": "categories/FrondEnd/index.html",
-    "revision": "859591614347d98b7a9361760efb31d9"
+    "revision": "dd860c06eda367f454dcec6044335687"
   },
   {
     "url": "categories/index.html",
-    "revision": "781991dd00396a9f3c33204d6b88be13"
+    "revision": "c5cee45eab71f167b73d044ca0625c4d"
   },
   {
     "url": "index.html",
-    "revision": "15aad2eecf4cd3a307b6ad20ef37f8d7"
+    "revision": "f5ed8f5e47a3158a08a8c17508a8fa23"
   },
   {
     "url": "tag/githubpage/index.html",
-    "revision": "7fc52c0570856d0aa591774ebe3733db"
+    "revision": "4997821f84014d7bdb9134fffc14a448"
   },
   {
     "url": "tag/index.html",
-    "revision": "3a13feaab7fa7ff090318610f9ddf931"
+    "revision": "aa327a4de9ed94359099ba71c8ab844f"
   },
   {
     "url": "tag/vuepress/index.html",
-    "revision": "283c18f00fc44eb8e886c891b3ebf80e"
+    "revision": "40a13d0f71ace0a1e0e5976ff0432237"
   },
   {
     "url": "timeline/index.html",
-    "revision": "bab37490900cd6377ab330cd954f5d76"
+    "revision": "a8da11c70394c35ac3fb0276dda2d3f5"
   },
   {
     "url": "web-img/author.jpg",
