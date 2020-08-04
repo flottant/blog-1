@@ -27,11 +27,11 @@ self.addEventListener('message', (event) => {
 self.__precacheManifest = [
   {
     "url": "404.html",
-    "revision": "66eae775e13e056a5e745d95fa76fa3b"
+    "revision": "39a56488aaeab636b5009f158f09566b"
   },
   {
-    "url": "assets/css/0.styles.605b745b.css",
-    "revision": "6f8e88636b23281095b93afcca083413"
+    "url": "assets/css/0.styles.59eef9a9.css",
+    "revision": "79bab71801b4514298e83686b98f646c"
   },
   {
     "url": "assets/img/home-bg.7b267d7c.jpg",
@@ -90,8 +90,8 @@ self.__precacheManifest = [
     "revision": "bbb13da129bebc39243315fbddf9d88a"
   },
   {
-    "url": "assets/js/app.144d4997.js",
-    "revision": "b5efc3a64bede7968aa4e73d09e1eff1"
+    "url": "assets/js/app.ecb72e12.js",
+    "revision": "3f6655b3ed588235ea2118c537e157ac"
   },
   {
     "url": "assets/js/vendors~flowchart.b1222c5f.js",
@@ -99,39 +99,39 @@ self.__precacheManifest = [
   },
   {
     "url": "blogs/FrontEnd/2020-8/tips.html",
-    "revision": "3bfe9624522b6a7e47389c129bc5d0a8"
+    "revision": "adcaa7a6027af3f586ec096d330a9305"
   },
   {
     "url": "blogs/FrontEnd/2020-8/依托于 GithubPage 的静态博客部署方案.html",
-    "revision": "6caea74307b4107e06a8c76c418d171b"
+    "revision": "47caf7c010af655c0a7468c72fab24d6"
   },
   {
     "url": "categories/FrondEnd/index.html",
-    "revision": "587b07a851dd2aea84e1b7a54d9bef3a"
+    "revision": "31a160d7d0dd73f62485aac64e23575e"
   },
   {
     "url": "categories/index.html",
-    "revision": "02c3d5f6fc0b97d225faac8bec7a20e8"
+    "revision": "95d63ef8da9e42846bcc8650048ec5ee"
   },
   {
     "url": "index.html",
-    "revision": "0a2be5af2cc423d1e44ea2b54b417bf4"
+    "revision": "b27f2c6207c9f8514b7adb0d345d806a"
   },
   {
     "url": "tag/githubpage/index.html",
-    "revision": "64a6a3458543dbb38706767a12a97e7e"
+    "revision": "96720c8319bd91b84b4d7d005865ca2e"
   },
   {
     "url": "tag/index.html",
-    "revision": "e1b88a1132ba269fe135cce215df3016"
+    "revision": "5216b7b4805da9a33399c315a941a82c"
   },
   {
     "url": "tag/vuepress/index.html",
-    "revision": "89fca856e04161588ac6fa19e5be7836"
+    "revision": "54699ce7a8dd17af708c407f0acf862a"
   },
   {
     "url": "timeline/index.html",
-    "revision": "54effd97773d712888ac39e3ea22a613"
+    "revision": "e4b9cfe99c1e0009f3f4c56c29ac727c"
   },
   {
     "url": "web-img/author.jpg",
