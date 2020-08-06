@@ -27,111 +27,119 @@ self.addEventListener('message', (event) => {
 self.__precacheManifest = [
   {
     "url": "404.html",
-    "revision": "72daf72bd29d84dfcc9db95d3ea9d2d7"
+    "revision": "1f9f3137bebc59af823084fee072e131"
   },
   {
-    "url": "assets/css/0.styles.67296747.css",
-    "revision": "24da0114edfe96a9f38280e0d3c228f5"
+    "url": "assets/css/0.styles.e168caf7.css",
+    "revision": "65c0fc1389f7a8887f4c6186ecfa3c45"
   },
   {
     "url": "assets/img/home-bg.7b267d7c.jpg",
     "revision": "7b267d7ce30257a197aeeb29f365065b"
   },
   {
-    "url": "assets/js/1.f549426b.js",
-    "revision": "cdb165c63fa51ea5c1e7d51cf8191bb1"
+    "url": "assets/js/1.b075f33e.js",
+    "revision": "fb6ae7143a939a33722550ca13b88b1a"
   },
   {
-    "url": "assets/js/10.cfb1ba8a.js",
-    "revision": "aac3ec1ee0b8999cdbb1eeda5ab97577"
+    "url": "assets/js/10.bb9b2106.js",
+    "revision": "5c196715c2ea3938ad0f49313352e593"
   },
   {
-    "url": "assets/js/11.458ea742.js",
-    "revision": "dd21573a014548ea646311ecebaa456e"
+    "url": "assets/js/11.32769570.js",
+    "revision": "7f7dfc13f8d94636e56c93b35314a257"
   },
   {
-    "url": "assets/js/12.52f1008d.js",
-    "revision": "eb5f8a18cb80db43705bf03f3cf81079"
+    "url": "assets/js/12.304ee69c.js",
+    "revision": "b8825d74f9a0c8b719a71fa2570603bc"
   },
   {
-    "url": "assets/js/13.3d7feb27.js",
-    "revision": "31b515330df0b9357fd4c4a68838f593"
+    "url": "assets/js/13.f50f42e4.js",
+    "revision": "6a9daa46cd6abfe7bd8ef6589cc38138"
   },
   {
-    "url": "assets/js/14.9f4657d8.js",
-    "revision": "efbd82153ef9a073e9723031f6d850ef"
+    "url": "assets/js/14.107077f8.js",
+    "revision": "72209fc8d9486ea1a2b3336964a45ccd"
   },
   {
-    "url": "assets/js/15.bb9b5627.js",
-    "revision": "d56dca7aa60a0bd6200e82c81363e5a4"
+    "url": "assets/js/4.9426981b.js",
+    "revision": "8baf6131624e73fa78652e613ac9ba4b"
   },
   {
-    "url": "assets/js/4.0dc17781.js",
-    "revision": "8d9db0b10ed21cb54e074893044cee4f"
+    "url": "assets/js/5.e9ff4345.js",
+    "revision": "8ef2751d2ad38888065c3ea79537b584"
   },
   {
-    "url": "assets/js/5.1546c66d.js",
-    "revision": "fa5916adf5db52ac2d707329ffcbb5ff"
+    "url": "assets/js/6.31fffafe.js",
+    "revision": "d50094ce7ae4d22c01eb9da7b96623f4"
   },
   {
-    "url": "assets/js/6.63cbbf63.js",
-    "revision": "62238a1d9a1211858ca27c77ee035b04"
+    "url": "assets/js/7.da59afe4.js",
+    "revision": "aff32c63ca485e0c1094ec60663a8744"
   },
   {
-    "url": "assets/js/7.0e3f4994.js",
-    "revision": "a71f4cc8aca03d60a39f24c9d82ab8e0"
+    "url": "assets/js/8.19f00d27.js",
+    "revision": "80bb86e24057e1455ee67531044c83e2"
   },
   {
-    "url": "assets/js/8.521d0228.js",
-    "revision": "7ed3a7bd239c005c6132b1093a0e4c6e"
+    "url": "assets/js/9.0e33fc2c.js",
+    "revision": "f7310014de180132e98befdd04f61c81"
   },
   {
-    "url": "assets/js/9.a59fc3df.js",
-    "revision": "bbb13da129bebc39243315fbddf9d88a"
+    "url": "assets/js/app.8037e609.js",
+    "revision": "47471af9472ae9cf2f3e327167ca3445"
   },
   {
-    "url": "assets/js/app.9194c875.js",
-    "revision": "1aa2ff2a12bda3eba04f277820cf0004"
+    "url": "assets/js/vendors~flowchart.8cc5d160.js",
+    "revision": "bdb66a3e153e52cd76ceb1c45391be11"
   },
   {
-    "url": "assets/js/vendors~flowchart.b1222c5f.js",
-    "revision": "ddeae57682a006ba86719462a1926475"
+    "url": "blogs/FrontEnd/2020-8/依托于GithubPages的Vuepress静态博客GithubAction自动部署方案.html",
+    "revision": "fe0c87f392a1f1bb06b7877ac854283b"
   },
   {
-    "url": "blogs/FrontEnd/2020-8/tips.html",
-    "revision": "b58da961c9c56f4f9542cc2ff518cdde"
-  },
-  {
-    "url": "blogs/FrontEnd/2020-8/依托于 GithubPage 的静态博客部署方案.html",
-    "revision": "093dd1c895db9f5e83cefb540e53f8be"
-  },
-  {
-    "url": "categories/FrondEnd/index.html",
-    "revision": "fd7424c90ea17340180e0ce910155ded"
+    "url": "categories/FrontEnd/index.html",
+    "revision": "1f79e70840016dd498d32a524a93bfaa"
   },
   {
     "url": "categories/index.html",
-    "revision": "6568fbfee13b7b25938b4d4591a8ef17"
+    "revision": "9f626534f3357d527aadbdca10d14171"
   },
   {
     "url": "index.html",
-    "revision": "0d25088b46ccb356684216dcfe7ea790"
+    "revision": "58da0b8dc1fadab9a54c0d59592b996f"
   },
   {
-    "url": "tag/githubpage/index.html",
-    "revision": "6b7e28acc46420b3879204742bfba143"
+    "url": "tag/Git/index.html",
+    "revision": "b138186da6458e06910847ca092d4af0"
+  },
+  {
+    "url": "tag/Gitee/index.html",
+    "revision": "eabf56f8629b485ac168635f4db471e4"
+  },
+  {
+    "url": "tag/Github Action/index.html",
+    "revision": "d9c47275c7ad87f79d6e5583ec86e38e"
+  },
+  {
+    "url": "tag/Github Pages/index.html",
+    "revision": "672398c9219776c643a20315ad25a015"
+  },
+  {
+    "url": "tag/Github/index.html",
+    "revision": "cce99f43d0eb1003b0bcfadafdf61106"
   },
   {
     "url": "tag/index.html",
-    "revision": "4d9ae5bfc065a64d32344632295b9ec3"
+    "revision": "573e7c1ff795d139b3ca9206302e4062"
   },
   {
-    "url": "tag/vuepress/index.html",
-    "revision": "1950f522010501a17ffbef8d94f769f1"
+    "url": "tag/Vuepress/index.html",
+    "revision": "cb9cf2d794cedf081ca193086210a695"
   },
   {
     "url": "timeline/index.html",
-    "revision": "5b1a1d22d710231eca3d1ec0212784a2"
+    "revision": "b6e98477525a78804f85aab645640cf1"
   },
   {
     "url": "web-img/author.jpg",
