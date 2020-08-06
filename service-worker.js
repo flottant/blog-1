@@ -27,7 +27,7 @@ self.addEventListener('message', (event) => {
 self.__precacheManifest = [
   {
     "url": "404.html",
-    "revision": "43b61eb308f67fb23c4cddd53adecfef"
+    "revision": "7c3bf19ad57bf397032f3525903d323f"
   },
   {
     "url": "assets/css/0.styles.e168caf7.css",
@@ -54,8 +54,8 @@ self.__precacheManifest = [
     "revision": "b8825d74f9a0c8b719a71fa2570603bc"
   },
   {
-    "url": "assets/js/13.30570704.js",
-    "revision": "c73f223d3bdc1fb4a5b4b3702975c0ff"
+    "url": "assets/js/13.03aa7823.js",
+    "revision": "95335a825514bb6c5ab9ab4bfcf0c65f"
   },
   {
     "url": "assets/js/14.107077f8.js",
@@ -86,8 +86,8 @@ self.__precacheManifest = [
     "revision": "f7310014de180132e98befdd04f61c81"
   },
   {
-    "url": "assets/js/app.feda22e5.js",
-    "revision": "1c2b38036eebfae3bff4f6ccf27f7260"
+    "url": "assets/js/app.a108bad7.js",
+    "revision": "8cb409d773f58d67e49257c879ad6225"
   },
   {
     "url": "assets/js/vendors~flowchart.8cc5d160.js",
@@ -95,51 +95,51 @@ self.__precacheManifest = [
   },
   {
     "url": "blogs/FrontEnd/2020-8/依托于GithubPages的Vuepress静态博客GithubAction自动部署方案.html",
-    "revision": "38f3582d6398eb58b3e58a97ea8fb8bb"
+    "revision": "51223343e63bc7d168e0cda5dce6d3d1"
   },
   {
     "url": "categories/FrontEnd/index.html",
-    "revision": "b054faaf767b6bcef943b65479854b1c"
+    "revision": "21f49effe981467cb7dcfc3565b3d197"
   },
   {
     "url": "categories/index.html",
-    "revision": "238d0b95bb3d3aec152e132ad94552ff"
+    "revision": "92c454b811addeed41ef4908f375ce63"
   },
   {
     "url": "index.html",
-    "revision": "fdba8c83fc3e7035f78feac4a1143d1e"
+    "revision": "a74b3afec841777b41bd1b4befa00f50"
   },
   {
     "url": "tag/Git/index.html",
-    "revision": "8c9e9e39df5799b2a6507278ef4dcbb5"
+    "revision": "13773819dede55e85179b277287a5849"
   },
   {
     "url": "tag/Gitee/index.html",
-    "revision": "4540dda8a94964d492512ec67b74295b"
+    "revision": "3cf851fb64e6ca8c052e43c1e4b26ad4"
   },
   {
     "url": "tag/Github Action/index.html",
-    "revision": "2c558f40f28c1a3e370f7693dc65defb"
+    "revision": "b003fbfe4cdfb5fcc6314c1eedfd8cd4"
   },
   {
     "url": "tag/Github Pages/index.html",
-    "revision": "3c910db8cfe79d47a69ee47fd8ae2fea"
+    "revision": "5463ee3c222ba8db97216fce885404e8"
   },
   {
     "url": "tag/Github/index.html",
-    "revision": "19051974297eecafe65e3bfddb3a6b96"
+    "revision": "cf5335047acd34583deec2020f0a73e8"
   },
   {
     "url": "tag/index.html",
-    "revision": "bbf7d79ee219b239931847e9fd3e7343"
+    "revision": "3e459ea6d9159ea5374507615ec8f39f"
   },
   {
     "url": "tag/Vuepress/index.html",
-    "revision": "0c07b57d3d9efe02c38aa5493b542e38"
+    "revision": "750c75c0b7c645cff0a7a92335455ab4"
   },
   {
     "url": "timeline/index.html",
-    "revision": "09bc02d0fd97ad4b227d25ba587352cf"
+    "revision": "572c71afe6fc0450bbeec664b12528a0"
   },
   {
     "url": "web-img/author.jpg",
