@@ -27,7 +27,7 @@ self.addEventListener('message', (event) => {
 self.__precacheManifest = [
   {
     "url": "404.html",
-    "revision": "37c5260e4be898524428da4654f53ee9"
+    "revision": "43b61eb308f67fb23c4cddd53adecfef"
   },
   {
     "url": "assets/css/0.styles.e168caf7.css",
@@ -86,8 +86,8 @@ self.__precacheManifest = [
     "revision": "f7310014de180132e98befdd04f61c81"
   },
   {
-    "url": "assets/js/app.54d6b53d.js",
-    "revision": "a98356b0d5a14e1b78896a7271845912"
+    "url": "assets/js/app.feda22e5.js",
+    "revision": "1c2b38036eebfae3bff4f6ccf27f7260"
   },
   {
     "url": "assets/js/vendors~flowchart.8cc5d160.js",
@@ -95,51 +95,51 @@ self.__precacheManifest = [
   },
   {
     "url": "blogs/FrontEnd/2020-8/依托于GithubPages的Vuepress静态博客GithubAction自动部署方案.html",
-    "revision": "74687c49690afdef3f3d47c83925199b"
+    "revision": "38f3582d6398eb58b3e58a97ea8fb8bb"
   },
   {
     "url": "categories/FrontEnd/index.html",
-    "revision": "bce1e6ba57c8f6483660ad3965180d51"
+    "revision": "b054faaf767b6bcef943b65479854b1c"
   },
   {
     "url": "categories/index.html",
-    "revision": "cb958d7d11b936f2653e14b2104f9540"
+    "revision": "238d0b95bb3d3aec152e132ad94552ff"
   },
   {
     "url": "index.html",
-    "revision": "d3ac956c84b1dff6b7115bb9351558c7"
+    "revision": "fdba8c83fc3e7035f78feac4a1143d1e"
   },
   {
     "url": "tag/Git/index.html",
-    "revision": "ed8a926925598f0a01f9fd5b93124a62"
+    "revision": "8c9e9e39df5799b2a6507278ef4dcbb5"
   },
   {
     "url": "tag/Gitee/index.html",
-    "revision": "e70c2b64aef38652cfc5c435bf5da356"
+    "revision": "4540dda8a94964d492512ec67b74295b"
   },
   {
     "url": "tag/Github Action/index.html",
-    "revision": "85ceddc2f359e5c200ad6351944eb7c6"
+    "revision": "2c558f40f28c1a3e370f7693dc65defb"
   },
   {
     "url": "tag/Github Pages/index.html",
-    "revision": "e0d6e056909a17cddf4bacb08c9237a3"
+    "revision": "3c910db8cfe79d47a69ee47fd8ae2fea"
   },
   {
     "url": "tag/Github/index.html",
-    "revision": "837cc859e81539e9c9d896424795b38a"
+    "revision": "19051974297eecafe65e3bfddb3a6b96"
   },
   {
     "url": "tag/index.html",
-    "revision": "e3e0cbb211d60de8dd2ec44b7f02d309"
+    "revision": "bbf7d79ee219b239931847e9fd3e7343"
   },
   {
     "url": "tag/Vuepress/index.html",
-    "revision": "a31a3c39ebb33b0653748462a25a0beb"
+    "revision": "0c07b57d3d9efe02c38aa5493b542e38"
   },
   {
     "url": "timeline/index.html",
-    "revision": "985fbb20832a5da860db7ddc2a351a29"
+    "revision": "09bc02d0fd97ad4b227d25ba587352cf"
   },
   {
     "url": "web-img/author.jpg",
