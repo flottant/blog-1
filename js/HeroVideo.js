@@ -11,7 +11,7 @@ window.addEventListener('pageshow',function(e){
                 position: absolute ;
                 top: -224px; 
                 left: 0;'>
-        <source src='/blog/web-img/bgvideo.mp4' type='video/mp4'  />
+        <source src='../web-img/bgvideo.mp4' type='video/mp4'  />
     </video>
     `;
     console.timeEnd("VideoBg load");
