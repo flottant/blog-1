@@ -27,7 +27,7 @@ self.addEventListener('message', (event) => {
 self.__precacheManifest = [
   {
     "url": "404.html",
-    "revision": "cfeadbe89a7007da0efe651eba7283a4"
+    "revision": "d78014f890378fd4157fb5ae19e6a3d5"
   },
   {
     "url": "assets/css/0.styles.b91f81b7.css",
@@ -58,8 +58,8 @@ self.__precacheManifest = [
     "revision": "1d3ba2c15362b3cfc6c352005dcbdb03"
   },
   {
-    "url": "assets/js/14.0e0503ab.js",
-    "revision": "205c95aa651a450ab9ae147a7d22d45b"
+    "url": "assets/js/14.dd9de94e.js",
+    "revision": "17ff317b1c5f294b7e8f9762d37b6c54"
   },
   {
     "url": "assets/js/15.7a9238aa.js",
@@ -266,8 +266,8 @@ self.__precacheManifest = [
     "revision": "f2cb7e29c08404935b9eab0e64af0204"
   },
   {
-    "url": "assets/js/app.87bf5c11.js",
-    "revision": "e935186ea9c4fda65ddc8cd76e580cc2"
+    "url": "assets/js/app.7e817d76.js",
+    "revision": "5e4acefb66ba191a1e5b6e7f75f1643a"
   },
   {
     "url": "assets/js/vendors~flowchart.448c1d87.js",
@@ -275,219 +275,219 @@ self.__precacheManifest = [
   },
   {
     "url": "blogs/BackEnd/2020-10/DDB-simple-guide.html",
-    "revision": "cb08d843fc10b9e93e9ae074ae68a992"
+    "revision": "75da405c4ece64f1dada3b56c11802ee"
   },
   {
     "url": "blogs/BackEnd/2020-10/MySQL-uninstall-version-guide.html",
-    "revision": "69f4044b6c291ce347d1a666da51863f"
+    "revision": "508148e0d5efe1b8a93badb9e0c4ea20"
   },
   {
     "url": "blogs/BackEnd/2020-10/Navicat-connect-oracledb.html",
-    "revision": "6337cf9642937b09bc1f022bf0e62ddc"
+    "revision": "73c07d2cce908222105ab450be33769b"
   },
   {
     "url": "blogs/BackEnd/2020-8/Ajax-base.html",
-    "revision": "6f71a53517467b2e9fc1c9dfa0ff9b49"
+    "revision": "2cd1fa293d87a1faf016ad684296fef9"
   },
   {
     "url": "blogs/BackEnd/2020-8/Ajax-more-1.html",
-    "revision": "27ac68d22e31ac7719061e499e875e15"
+    "revision": "9acf77b184e6813b4a0bada9c7d6d960"
   },
   {
     "url": "blogs/BackEnd/2020-8/Express-Start.html",
-    "revision": "a80d191bb7f2cd701f45392a6fb12f0c"
+    "revision": "b803bce19b9ef6b0c329ac8e85cf9ae8"
   },
   {
     "url": "blogs/BackEnd/2020-8/MongDB-nodejs-example.html",
-    "revision": "c69239f5596af1bc89b3faeada98faee"
+    "revision": "42dc66b498969ea38f8d0c350be413ec"
   },
   {
     "url": "blogs/BackEnd/2020-8/MongoDB-Base.html",
-    "revision": "1d7f66302b473faa74a8fbadb754ff8b"
+    "revision": "4bd9b2900651acdbf400289eee948610"
   },
   {
     "url": "blogs/BackEnd/2020-8/Node-start-1.html",
-    "revision": "08c768833f2b18061b396421a835b8d3"
+    "revision": "a263276d0ce4cee09b1cdccde711910d"
   },
   {
     "url": "blogs/BackEnd/2020-8/Node-start-2.html",
-    "revision": "8eb3d8082b96ef98e5c624b9ebc78c01"
+    "revision": "fe60846b7bd2d9f4e1c1b53a2846257e"
   },
   {
     "url": "blogs/FrontEnd/2020-8/BOM.html",
-    "revision": "64a669053ac3aa7813257bc03da3a8c2"
+    "revision": "556541a2461910e61452b358410565a2"
   },
   {
     "url": "blogs/FrontEnd/2020-8/DOM-event-base.html",
-    "revision": "1972c39c51a2b9d25c3fcd0dcc643df9"
+    "revision": "eb4d7262b976d2692e87fab1b999464c"
   },
   {
     "url": "blogs/FrontEnd/2020-8/DOM-event-high.html",
-    "revision": "09c7179b373f69a627e5f60212d7e0eb"
+    "revision": "1a6e3acb55ae36f3b7df411cf4267e34"
   },
   {
     "url": "blogs/FrontEnd/2020-8/FrontEndInterview.html",
-    "revision": "95325f915b14fcd15aabc3a60e97f802"
+    "revision": "b2a7d560f8d02cf5305910ae6c4c1bf2"
   },
   {
     "url": "blogs/FrontEnd/2020-8/GradientFront.html",
-    "revision": "49627fb9be0a0dbe8eac5ea1eb298eeb"
+    "revision": "18fdc40b99f1632c3ada604beb6c742e"
   },
   {
     "url": "blogs/FrontEnd/2020-8/JavaScritpHoisting.html",
-    "revision": "8722efeb8856b138467b10b82e23e5eb"
+    "revision": "ea5e4842bc6b3ec12f9d70ea5856b210"
   },
   {
     "url": "blogs/FrontEnd/2020-8/JDM-Banner-background-radio.html",
-    "revision": "2e7cc685e372a166b1086b7c053cd1c3"
+    "revision": "836e66f0c9b2f01d46bba27393270080"
   },
   {
     "url": "blogs/FrontEnd/2020-8/JQuery-Start-1.html",
-    "revision": "762e586acf91c7d359cc00553072c15b"
+    "revision": "c3a3a7e576b01093d9065d4c02e79845"
   },
   {
     "url": "blogs/FrontEnd/2020-8/JQuery-Start-2.html",
-    "revision": "11572c5b20fcc6db28b1709581ddb7dd"
+    "revision": "ef5542690760ee2308c87d9cedccd28a"
   },
   {
     "url": "blogs/FrontEnd/2020-8/JQuery-Start-3.html",
-    "revision": "0300cf6d535edcad470e758023f89804"
+    "revision": "e31f5794b58493d177ba02af52259557"
   },
   {
     "url": "blogs/FrontEnd/2020-8/Js-senior-1.html",
-    "revision": "b59702b5edf49cebcfd2f44b00b3a2ca"
+    "revision": "3731da774823ff02ca4c67919646e980"
   },
   {
     "url": "blogs/FrontEnd/2020-8/Js-senior-2.html",
-    "revision": "48b1fcd724d713874836a816e4a06b69"
+    "revision": "7556136ac83e02b0e604d17fed95dce1"
   },
   {
     "url": "blogs/FrontEnd/2020-8/Js-senior-3.html",
-    "revision": "c603d4237a0e57b6bba4d3e608717c32"
+    "revision": "43ea277d1c8c30edbab9a442dc00f70b"
   },
   {
     "url": "blogs/FrontEnd/2020-8/Js-senior-4.html",
-    "revision": "c66e009da068cc41ef9ab6e4c95d689d"
+    "revision": "5290fb0640b5ab5c7c155d343d7a7532"
   },
   {
     "url": "blogs/FrontEnd/2020-8/Js-senior-5.html",
-    "revision": "edf88773bc983e7aafb13f82210fff03"
+    "revision": "110c96a2685796aebd1e628604d3d118"
   },
   {
     "url": "blogs/FrontEnd/2020-8/Js-Start-1-Variable.html",
-    "revision": "410ae84fa0d746a845ec6030cf2a1dd5"
+    "revision": "fd09fc6f0a77d11606ca4bb86171ca3b"
   },
   {
     "url": "blogs/FrontEnd/2020-8/Js-Start-2-Operator.html",
-    "revision": "0f0223d6dc19785c2c346f3a599c9de6"
+    "revision": "ee7aec4d3afe8aaa37e8f82c12a9cc34"
   },
   {
     "url": "blogs/FrontEnd/2020-8/Js-Start-3-Cycle.html",
-    "revision": "7e221b9d152a3cf03cf25570855c938c"
+    "revision": "643939522d1b1c73acd43c3d5ad2972e"
   },
   {
     "url": "blogs/FrontEnd/2020-8/Js-Start-4-Array.html",
-    "revision": "4d6fdfadbc2fbdc350a90380b3236282"
+    "revision": "e0b09b7e97b71d11699db8b4b175b1a1"
   },
   {
     "url": "blogs/FrontEnd/2020-8/Js-Start-5-Function.html",
-    "revision": "2094a263adaf3b347f72c9eec91b37d8"
+    "revision": "20e2338259dcc18092f4e98bf5a2ee73"
   },
   {
     "url": "blogs/FrontEnd/2020-8/Js-Start-6-Scope.html",
-    "revision": "229e3be4989cf9a8ef014150a9214771"
+    "revision": "3e519017b59038165f91ff6998f15e4a"
   },
   {
     "url": "blogs/FrontEnd/2020-8/Js-Start-7-Object.html",
-    "revision": "c3a9188de72caca8b2a74ef24d982dcb"
+    "revision": "d8d9b462213edd66ad79f51f1ad4e8e3"
   },
   {
     "url": "blogs/FrontEnd/2020-8/Js-Start-8-Memory.html",
-    "revision": "1164f8c0adfb7f578496c71714438936"
+    "revision": "364873df4d850fda6730104fd4c9fe15"
   },
   {
     "url": "blogs/FrontEnd/2020-8/MobileWeb-flex.html",
-    "revision": "cda2c1a608b181420b42b1ee66ad0e53"
+    "revision": "c22f84cf089d179282f1089a5eb92e87"
   },
   {
     "url": "blogs/FrontEnd/2020-8/MobileWeb-fluid.html",
-    "revision": "f45f5d19546b395797b67e9ddc3c2de3"
+    "revision": "1ebd04ab31b83e19e80ac0ce455c0b6f"
   },
   {
     "url": "blogs/FrontEnd/2020-8/MobileWeb-rem.html",
-    "revision": "c11221f48df640863a5ff412ae281b2f"
+    "revision": "7acd9a6550bedc154fae45ea5b79938a"
   },
   {
     "url": "blogs/FrontEnd/2020-8/MobileWeb-respon.html",
-    "revision": "2ed147cfb3d405d9bc8b8ed39b507381"
+    "revision": "b66ce54be9179d276161fc496acad3e5"
   },
   {
     "url": "blogs/FrontEnd/2020-8/moblie-web-effect.html",
-    "revision": "59b48a89cb0b09247610377e5d88c0a1"
+    "revision": "03724d1c6b089393815af98446227384"
   },
   {
     "url": "blogs/FrontEnd/2020-8/pc-web-effect.html",
-    "revision": "50215e5dc98702838bdfbc595ec9f2d2"
+    "revision": "55cdc6502dab31b5960b8e8675301606"
   },
   {
     "url": "blogs/FrontEnd/2020-8/Project-BlogManageSystem.html",
-    "revision": "85260142bf4bdb2892203e24ce33dda4"
+    "revision": "95c8849aacc76c23a496b57cf4625f50"
   },
   {
     "url": "blogs/FrontEnd/2020-8/StaticBlogAutoDeployPlan.html",
-    "revision": "da777ba10762e55d5887895385f0f4ba"
+    "revision": "9a101bf8241c37449f4421ed5f827851"
   },
   {
     "url": "blogs/FrontEnd/2020-8/WEBAPI.html",
-    "revision": "c90d0ee733960b33fb3288dcfb7e18e7"
+    "revision": "7cd8fe382f71d5a7e6ab1befec6b360e"
   },
   {
     "url": "blogs/Others/Eclipse-install-guide.html",
-    "revision": "fcde3860c5965cec48c364f4b1f94828"
+    "revision": "440c80b741f412fab8038f8828559a57"
   },
   {
     "url": "blogs/Others/Git-Github-start.html",
-    "revision": "982d4dbed1b6d8fc3c7144354ced0f7b"
+    "revision": "24f18cf15a3a2c843f5e5f89683f2a76"
   },
   {
     "url": "blogs/Others/MarkdownCheck.html",
-    "revision": "31d0d1f2c5dce6c373d912fba2d916dd"
+    "revision": "62eb1f220dbf29a5d3c0c824d4de0e48"
   },
   {
     "url": "categories/BackEnd/index.html",
-    "revision": "c6704a5c54f8c131c03a221b1757da21"
+    "revision": "d21d94aecde5112d0c5a77c2d65d6cad"
   },
   {
     "url": "categories/BackEnd/page/2/index.html",
-    "revision": "f3b22bfa54a6a0dc628a1642412d4e9a"
+    "revision": "6986549aa54ab17994f427dbe2483af3"
   },
   {
     "url": "categories/FrontEnd/index.html",
-    "revision": "0434ece19b2aa83ff42aee9b3eb111a5"
+    "revision": "7507d2af32562ce44b5eb7a9dae74327"
   },
   {
     "url": "categories/FrontEnd/page/2/index.html",
-    "revision": "4e3ce9a207f4cc1c106d2f8c93cf9973"
+    "revision": "4adc59490cd513d749d387a399e56de0"
   },
   {
     "url": "categories/FrontEnd/page/3/index.html",
-    "revision": "293e97cc1b7565bedf6e8c9e83dc46a1"
+    "revision": "2d2a2f0e54bd4a79c55538ec1021cb19"
   },
   {
     "url": "categories/FrontEnd/page/4/index.html",
-    "revision": "5bfb9acf91c5135956fc0b5a8c14414e"
+    "revision": "97c4c2b4baafe51761a251f99f8b0c1b"
   },
   {
     "url": "categories/index.html",
-    "revision": "9330b3f5d1d52f47ca746b9da40dff40"
+    "revision": "7d32c73745d7aa295cd51efa366b6bad"
   },
   {
     "url": "categories/Others/index.html",
-    "revision": "29aeee14e5d49677c984e525e87abd93"
+    "revision": "745cc3ee7417ee59b51561492ab6648c"
   },
   {
     "url": "index.html",
-    "revision": "462462ab2c1d34e3856e910bb58c2c41"
+    "revision": "6b916e18482e58a2f57373b86e6019de"
   },
   {
     "url": "js/MouseClickEffect.js",
@@ -495,143 +495,143 @@ self.__precacheManifest = [
   },
   {
     "url": "record/index.html",
-    "revision": "f7aab00dce6cade5a45b60bccf3a5566"
+    "revision": "4324c20a5ab63c03cd50d3ae04a244fc"
   },
   {
     "url": "tag/Ajax/index.html",
-    "revision": "cd95a58164bdb27b767f41eec7549b06"
+    "revision": "98fbf994e8988971a122bdf618c7ff82"
   },
   {
     "url": "tag/Art-template/index.html",
-    "revision": "a7d4383b00b0800ac6dd00165916daa2"
+    "revision": "0266b97b80e14976d8cc99be0c99a9ef"
   },
   {
     "url": "tag/BOM/index.html",
-    "revision": "fb11e78a210adc3d0c3822904ac5c323"
+    "revision": "fe0c9506918456eb720ddb93574e1389"
   },
   {
     "url": "tag/Bootstrap/index.html",
-    "revision": "9cc80dd043ccd31842a676e38763c26c"
+    "revision": "7a3afe6662ef1d8738bef9e0e16040ed"
   },
   {
     "url": "tag/CSS/index.html",
-    "revision": "8e784d3204cf02e3b92f8840d79b73b2"
+    "revision": "292a36b684f89d9f2cf2d8e38aed6156"
   },
   {
     "url": "tag/DOM/index.html",
-    "revision": "d74a01ae9192f0c8c74177d16df8ab5e"
+    "revision": "d2ec9a834db77d80de852aebeb27cce3"
   },
   {
     "url": "tag/Eclipse/index.html",
-    "revision": "b4e9b7893ec9958978a9e580cf4fa9df"
+    "revision": "59dc207f9b5dd8c81dd9402af06f442f"
   },
   {
     "url": "tag/Express/index.html",
-    "revision": "6d6041dd0d3fc21c6aabf30a3e478592"
+    "revision": "a6fb9022a2e339f9b101534e0dfa729b"
   },
   {
     "url": "tag/Git/index.html",
-    "revision": "c3ff7d3494a2a8772f2a60590854e8d3"
+    "revision": "e4f7672cb17c0afbb1d295bf5d8b41ee"
   },
   {
     "url": "tag/Gitee/index.html",
-    "revision": "cf37386f998980aeba19c6600cf8f287"
+    "revision": "d9c6c038a948d8dc8a21c88ef5e4a3cf"
   },
   {
     "url": "tag/Github Action/index.html",
-    "revision": "4e7279d2cccad81d293535ca6f0f199b"
+    "revision": "e144c1fe2df73ce43dcbbcd6330490e5"
   },
   {
     "url": "tag/Github Pages/index.html",
-    "revision": "3e6eabaa9d4131e75b9e25bf187c06fc"
+    "revision": "64f1342a48c917d54381d19e130588fa"
   },
   {
     "url": "tag/Github/index.html",
-    "revision": "87b43693f0f9b71a06fe5bb5c22b71c4"
+    "revision": "84685a41e4fae35b0b5c5a6ba5a2aa88"
   },
   {
     "url": "tag/HTML/index.html",
-    "revision": "d46c18155fe1a2c92dd2e282f8531914"
+    "revision": "dc0bc03856ef0e4cf1a118f6daf054b6"
   },
   {
     "url": "tag/index.html",
-    "revision": "011a59179891980fa252062f4957d57a"
+    "revision": "6893573ebef215fdaa79e597ae409fe3"
   },
   {
     "url": "tag/Java/index.html",
-    "revision": "524a3b545d5300a1ea760ab606dae06d"
+    "revision": "68632eba44038e8c648a393468de0fec"
   },
   {
     "url": "tag/JavaScript/index.html",
-    "revision": "620e65031b8947cf0d102e2975be509f"
+    "revision": "8ee2f3b135c971721c08b999e3972f1e"
   },
   {
     "url": "tag/JavaScript/page/2/index.html",
-    "revision": "20e3ff9c25ad183c970de2adf613aec3"
+    "revision": "03fba3bead84b316d8d24ae8bc46e29f"
   },
   {
     "url": "tag/Jdk/index.html",
-    "revision": "7fe9502a8fa348de3780e122406df0ea"
+    "revision": "69e77b77cfe43539412c39d15056de11"
   },
   {
     "url": "tag/JQuery/index.html",
-    "revision": "3ca1237a6dc6ae6b5b181d8e63cd4966"
+    "revision": "210b02adb9d0137a8876d90514f978a2"
   },
   {
     "url": "tag/Less/index.html",
-    "revision": "a6f888415129812ee117702a24fb9d23"
+    "revision": "386730a89008eec925b87a92c60c89b7"
   },
   {
     "url": "tag/Markdown/index.html",
-    "revision": "4693d223acfb4c973bd9bdc9e3b62465"
+    "revision": "012513437b2b07cba00536df7135fa85"
   },
   {
     "url": "tag/MongoDB/index.html",
-    "revision": "2b2d9ff2b791677afbb2bcfba1f6b2cc"
+    "revision": "82e0ebd6354a49736abca72b2eaac009"
   },
   {
     "url": "tag/MySQL/index.html",
-    "revision": "345c2e9fe141976ca0a1bd83cdd36da9"
+    "revision": "79a40e8faf0bd764203bd254d1eef894"
   },
   {
     "url": "tag/Node.js/index.html",
-    "revision": "ae08337b0eedeeefa77b0c2c33477ad9"
+    "revision": "d3d8d5519e56dbac45cf759d97b39453"
   },
   {
     "url": "tag/Oracle/index.html",
-    "revision": "828988dd9c14ca1d06dd7c0bb805dd47"
+    "revision": "93a9c49db1b20a099df0756bbc685ed4"
   },
   {
     "url": "tag/OracleDB/index.html",
-    "revision": "2f8ebee2c9c222a2960dcc022b782588"
+    "revision": "5ef87789ffdc1280b2bf37726030ab36"
   },
   {
     "url": "tag/Other/index.html",
-    "revision": "0c254f3b393ba206ef29fb66dd1e4adf"
+    "revision": "f6721b6949ab10ec6ca3cac1ba044d1b"
   },
   {
     "url": "tag/ProjectPractice/index.html",
-    "revision": "62a08914db0770ebb29c00b827f27cf8"
+    "revision": "44f9d996fc3ece985fa3f6f221443608"
   },
   {
     "url": "tag/Vuepress/index.html",
-    "revision": "8b020b601290a938f7f62c0dd25fe562"
+    "revision": "b5ba8702403756058e3aa73c31153b60"
   },
   {
     "url": "tag/Web Design/index.html",
-    "revision": "d740aa74624856796b1651c1d7d348ec"
+    "revision": "4a25067254d47508d9563f849ff54a49"
   },
   {
     "url": "tag/webReprint/index.html",
-    "revision": "8a046d6677f5dc46fdd7e588208aa349"
+    "revision": "e49beafee37edf6b6524bc55a88c1fd7"
   },
   {
     "url": "tag/WebReprint/index.html",
-    "revision": "6857be6beaff376c3e9062d2cf38e98a"
+    "revision": "f400599e5620ed61572d7eff4513596f"
   },
   {
     "url": "timeline/index.html",
-    "revision": "f20788aa4a7d3d3a4cd03331ceaef4b3"
+    "revision": "542156a65e132b1e4b4a56f8ae39ee1b"
   },
   {
     "url": "web-img/author.jpg",
